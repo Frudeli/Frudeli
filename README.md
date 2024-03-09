@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="gabriela soares frudeli" />
+<img align="center" style="margin-bottom:100px" width=100% src="gabriela soares frudeli.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> ❤️ Hi, i am gabriela. I am a information technology management</p>&nbsp;
