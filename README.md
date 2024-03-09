@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="#" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> ❤️ Hi, i am gabriela. I am a information technology management</p>&nbsp;
